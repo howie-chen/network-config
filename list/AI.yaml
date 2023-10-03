@@ -10,3 +10,4 @@ payload:
 
   # > Twitter/X
   - DOMAIN-SUFFIX, ai.com
+  - DOMAIN-SUFFIX, x.ai
