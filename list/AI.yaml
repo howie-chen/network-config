@@ -1,0 +1,12 @@
+payload:
+  # > Microsoft
+  - DOMAIN-SUFFIX, bing.com
+
+  # > Google
+  - DOMAIN-SUFFIX, bard.google.com
+
+  # > JetBrains
+  - DOMAIN-SUFFIX, grazie.ai
+
+  # > Twitter/X
+  - DOMAIN-SUFFIX, ai.com

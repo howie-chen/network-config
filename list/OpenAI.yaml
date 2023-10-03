@@ -1,0 +1,13 @@
+payload:
+  # > Main site
+  - DOMAIN-SUFFIX, openai.com
+
+  # > Payment network
+  - DOMAIN-SUFFIX, stripe.com
+  - DOMAIN-SUFFIX, stripe.network
+
+  # > Analysis network
+  - DOMAIN-SUFFIX, sentry.io
+  - DOMAIN-SUFFIX, segment.io
+  - DOMAIN-SUFFIX, segment.com
+  - DOMAIN-SUFFIX, intercom.io
