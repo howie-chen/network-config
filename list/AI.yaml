@@ -14,3 +14,6 @@ payload:
 
   # > Meta
   - DOMAIN-SUFFIX, ai.meta.com
+
+  # > Arc Max
+  - DOMAIN-SUFFIX, open-ai-chat-omega.vercel.app
