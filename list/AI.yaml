@@ -7,6 +7,7 @@ payload:
 
   # > JetBrains
   - DOMAIN-SUFFIX, grazie.ai
+  - DOMAIN-SUFFIX, api.app.prod.grazie.aws.intellij.net
 
   # > Twitter/X
   - DOMAIN-SUFFIX, ai.com
