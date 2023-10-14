@@ -2,6 +2,9 @@ payload:
   # > Main site
   - DOMAIN-SUFFIX, openai.com
 
+  # > CDN network
+  - DOMAIN-SUFFIX, openaiapi-site.azureedge.net
+
   # > Payment network
   - DOMAIN-SUFFIX, stripe.com
   - DOMAIN-SUFFIX, stripe.network
