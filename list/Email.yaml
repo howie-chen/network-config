@@ -1,9 +1,0 @@
-payload:
-  # > Gmail
-  - DOMAIN-SUFFIX, imap.gmail.com
-
-  # > Outlook
-  - DOMAIN-SUFFIX, imap-mail.outlook.com
-
-  # > QQ Mail
-  - DOMAIN-SUFFIX, imap.qq.com
