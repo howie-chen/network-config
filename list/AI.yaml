@@ -18,4 +18,3 @@ payload:
 
   # > Arc Max
   - DOMAIN-SUFFIX, open-ai-chat-omega.vercel.app
-  - DOMAIN-SUFFIX, test.com
