@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX, openai.com
 DOMAIN-SUFFIX, openaiapi-site.azureedge.net
 DOMAIN-SUFFIX, oaistatic.com
+DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, stripe.com
 DOMAIN-SUFFIX, stripe.network
 DOMAIN-SUFFIX, sentry.io
