@@ -4,6 +4,7 @@ payload:
 
   # > CDN network
   - DOMAIN-SUFFIX, openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX, oaistatic.com
 
   # > Payment network
   - DOMAIN-SUFFIX, stripe.com
