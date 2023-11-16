@@ -5,6 +5,10 @@ payload:
   # > Google
   - DOMAIN-SUFFIX, bard.google.com
 
+  # > Anthropic
+  - DOMAIN-SUFFIX, claude.ai
+  - DOMAIN-SUFFIX, anthropic.com
+
   # > JetBrains
   - DOMAIN-SUFFIX, grazie.ai
   - DOMAIN-SUFFIX, api.app.prod.grazie.aws.intellij.net
